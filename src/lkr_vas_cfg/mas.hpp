@@ -31,4 +31,4 @@ a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, Calif
 #define LKR_VAS_MAS_STINGER "launch_mas_sting_F"
 
 #define LKR_VAS_MAS_WEPS_VARIANTS LKR_VAS_MAS_AK74,LKR_VAS_MAS_BIZON,LKR_VAS_MAS_AKM,LKR_VAS_MAS_PKM,LKR_VAS_MAS_SVD,LKR_VAS_MAS_KSVK,LKR_VAS_MAS_HK416,LKR_VAS_MAS_HK417,LKR_VAS_MAS_M4,LKR_VAS_MAS_M16,LKR_VAS_MAS_MK200,LKR_VAS_MAS_M249,LKR_VAS_MAS_MK48,LKR_VAS_MAS_M240,LKR_VAS_MAS_MG3,LKR_VAS_MAS_G3,LKR_VAS_MAS_FAL,LKR_VAS_MAS_SR25,LKR_VAS_MAS_EBR,LKR_VAS_MAS_M24,LKR_VAS_MAS_M107,LKR_VAS_MAS_MP5,LKR_VAS_MAS_RPK,LKR_VAS_MAS_PISTOLS,LKR_VAS_MAS_STINGER
-#define LKR_VAS_MAS_MAGS 
+#define LKR_VAS_MAS_MAGS "100Rnd_mas_545x39_mag", "100Rnd_mas_545x39_T_mag", "100Rnd_mas_762x39_mag", "100Rnd_mas_762x39_T_mag", "100Rnd_mas_762x51_Stanag", "100Rnd_mas_762x51_T_Stanag", "100Rnd_mas_762x54_mag", "100Rnd_mas_762x54_T_mag", "10Rnd_mas_762x54_mag", "10Rnd_mas_762x54_T_mag", "200Rnd_mas_556x45_Stanag", "200Rnd_mas_556x45_T_Stanag", "30Rnd_mas_545x39_mag", "30Rnd_mas_545x39_T_mag", "30Rnd_mas_556x45_Stanag", "30Rnd_mas_556x45_T_Stanag", "30Rnd_mas_762x39_mag", "30Rnd_mas_762x39_T_mag", "5Rnd_mas_762x51_Stanag", "5Rnd_mas_762x51_T_Stanag"
