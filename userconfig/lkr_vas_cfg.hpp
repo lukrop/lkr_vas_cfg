@@ -33,7 +33,7 @@ class lkr_vas_cfg {
 		LKR_VAS_CAF_MAGS
 	};
 	
-	//Items to remove from VAS
+	//Magazines to restrict
 	removeItems[] = {
 		LKR_VAS_SC_ITEMS
 	};
