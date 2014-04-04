@@ -4,7 +4,9 @@ To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/
 a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
 */
 
-#include "macros.hpp"
+#include "caf.hpp"
+#include "mas.hpp"
+#include "sc_items.hpp"
 
 vas_customslots = (getNumber (configFile >> "lkr" >> "lkr_vas_cfg" >> "customSlots")) - 1;
 
